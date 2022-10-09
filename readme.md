@@ -30,8 +30,8 @@ Mobile View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kobbieessel/Order-summary-component)
-- Live Site URL: [Add live site URL here](https://kobbieessel.github.io/Order-summary-component/)
+- Solution URL: (https://github.com/kobbieessel/Order-summary-component)
+- Live Site URL: (https://kobbieessel.github.io/Order-summary-component/)
 
 ## My process
 
