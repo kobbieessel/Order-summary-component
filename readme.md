@@ -31,7 +31,7 @@ Mobile View
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/kobbieessel/Order-summary-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://kobbieessel.github.io/Order-summary-component/)
 
 ## My process
 
@@ -45,4 +45,4 @@ Mobile View
 ## Author
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kobbieessel)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@yourusername](https://twitter.com/McselKobbie)
